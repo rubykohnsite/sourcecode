@@ -1,25 +1,24 @@
-.footer-container{
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: white;
-    left:0;
+.footer-container {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  left: 0;
 }
 
 #copyright {
-    font-size: 7pt;
+  font-size: 7pt;
 }
 
 a {
-    text-decoration: none;
-    color:black;
-  }
+  text-decoration: none;
+  color: black;
+}
 
-  a:hover {
-    color: red;
-  }
+a:hover {
+  color: #f9da10;
+}
 
-#footer-nav{
-    font-size: 7pt;
-
+#footer-nav {
+  font-size: 7pt;
 }
