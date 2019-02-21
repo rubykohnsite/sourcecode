@@ -2,8 +2,24 @@
     position: fixed;
     bottom: 0;
     width: 100%;
+    background-color: white;
+    left:0;
 }
 
 #copyright {
     font-size: 7pt;
+}
+
+a {
+    text-decoration: none;
+    color:black;
+  }
+
+  a:hover {
+    color: red;
+  }
+
+#footer-nav{
+    font-size: 7pt;
+
 }
