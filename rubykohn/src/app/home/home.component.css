@@ -4,8 +4,11 @@
     margin-right:20%;
 }
 
+#home-img {
+    border: 1px solid black;
+}
 
 img {
-    width:50%;
-
+    width:20%;
+    border: 1px solid black;
 }
