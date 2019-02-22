@@ -1,0 +1,15 @@
+div {
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: left;
+
+}
+
+.major-header {
+  border: 2px groove #f9da10;
+  background: #f9f9f9;}
+
+.minor-header {
+  border: 1px solid black;
+  background: #f9f9f9;
+}
