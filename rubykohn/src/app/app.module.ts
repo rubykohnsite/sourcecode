@@ -8,6 +8,7 @@ import { ContactComponent } from './contact/contact.component';
 import { ResearchComponent } from './research/research.component';
 import { NavComponent } from './nav/nav.component';
 import { FooterComponent } from './footer/footer.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -16,11 +17,12 @@ import { FooterComponent } from './footer/footer.component';
     ContactComponent,
     ResearchComponent,
     NavComponent,
-    FooterComponent
+    FooterComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
