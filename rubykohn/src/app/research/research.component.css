@@ -1,6 +1,4 @@
-div {
-  margin-left: 20%;
-  margin-right: 20%;
+.inner-text {
   text-align: left;
 
 }
@@ -12,4 +10,17 @@ div {
 .minor-header {
   border: 1px solid black;
   background: #f9f9f9;
+}
+
+img{
+    width:180px;
+}
+
+
+.research-card {
+    margin-left: 15%;
+  margin-right: 15%;
+  background: #f9f9f9;
+  border: 2px dashed #f9da10;
+
 }
