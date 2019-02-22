@@ -1,0 +1,16 @@
+#my-input {
+    font-size:14px;
+}
+
+#my-text {
+    font-size:14px;
+    width: 45%;
+    height: 25%;
+}
+
+#my-button {
+    font-size:14px;
+    background:#f9da10;
+    width: 125px;
+    height: 55px
+} 

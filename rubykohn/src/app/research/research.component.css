@@ -1,26 +1,25 @@
 .inner-text {
   text-align: left;
-
 }
 
 .major-header {
   border: 2px groove #f9da10;
-  background: #f9f9f9;}
+  background: #f9f9f9;
+}
 
 .minor-header {
   border: 1px solid black;
   background: #f9f9f9;
 }
 
-img{
-    width:180px;
+img {
+  width: 180px;
 }
 
-
 .research-card {
-    margin-left: 15%;
+  margin-left: 15%;
   margin-right: 15%;
   background: #f9f9f9;
   border: 2px dashed #f9da10;
-
 }
+
