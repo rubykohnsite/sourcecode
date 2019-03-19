@@ -7,7 +7,7 @@ import { ResearchComponent } from './research/research.component';
 const routes: Routes = [
   { path: '', component: HomeComponent },
   { path: 'about', component: HomeComponent },
-  { path: 'research', component: ResearchComponent },
+  { path: 'projects', component: ResearchComponent },
 ];
 
 

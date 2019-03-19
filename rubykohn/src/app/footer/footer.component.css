@@ -5,15 +5,20 @@
   background-color: white;
   border: 1px solid black;
   left: 0;
+  height: auto;
 }
 
 #copyright {
   font-size: 7pt;
+  margin-bottom: 3px;
+  
+
 }
 
 a {
   text-decoration: none;
   color: black;
+  
 }
 
 a:hover {
@@ -22,4 +27,5 @@ a:hover {
 
 #footer-nav {
   font-size: 9pt;
+  margin:3px;
 }

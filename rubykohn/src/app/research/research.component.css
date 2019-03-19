@@ -1,24 +1,17 @@
-.inner-text {
+p {
   text-align: left;
-}
-
-.major-header {
-  border: 2px groove #f9da10;
-  background: #f9f9f9;
-}
-
-.minor-header {
-  border: 1px solid black;
-  background: #f9f9f9;
+  margin-left:20px
 }
 
 img {
   width: 180px;
+  float:left; 
+  margin-left:20px
 }
 
 .research-card {
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
   background: #f9f9f9;
   border: 2px dashed #f9da10;
 }
